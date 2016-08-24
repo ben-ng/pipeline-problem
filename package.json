@@ -1,0 +1,24 @@
+{
+  "name": "pipeline-problem",
+  "version": "1.0.0",
+  "description": "It's not the pipeline, it's you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-ng/pipeline-problem.git"
+  },
+  "keywords": [
+    "pipeline",
+    "problem",
+    "diversity"
+  ],
+  "author": "Ben Ng <me@benng.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ben-ng/pipeline-problem/issues"
+  },
+  "homepage": "https://github.com/ben-ng/pipeline-problem#readme"
+}
